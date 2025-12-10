@@ -1,4 +1,4 @@
-package EjerciciosObligatorios4.models;
+package PracticaCRUD.EjercicioObligatorio2.models;
 import java.io.Serializable;
 
 /**

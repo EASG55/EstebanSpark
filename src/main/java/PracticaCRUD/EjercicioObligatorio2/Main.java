@@ -1,7 +1,7 @@
-package EjerciciosObligatorios4;
+package PracticaCRUD.EjercicioObligatorio2;
 
 import static spark.Spark.*;
-import EjerciciosObligatorios4.models.Libro;
+import PracticaCRUD.EjercicioObligatorio2.models.Libro;
 import com.google.gson.Gson;
 import spark.Request;
 import spark.Response;
